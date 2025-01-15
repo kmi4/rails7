@@ -1,0 +1,18 @@
+current directory: /Users/komaiyoshinori/Works/rails7/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.2/ext/stringio
+/opt/homebrew/Cellar/rbenv/1.3.2/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/komaiyoshinori/Works/rails7/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250115-3154-61uxu5 sitelibdir\=./.gem.20250115-3154-61uxu5 clean
+
+current directory: /Users/komaiyoshinori/Works/rails7/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250115-3154-61uxu5 sitelibdir\=./.gem.20250115-3154-61uxu5
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/komaiyoshinori/Works/rails7/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250115-3154-61uxu5 sitelibdir\=./.gem.20250115-3154-61uxu5 install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20250115-3154-61uxu5
+
+current directory: /Users/komaiyoshinori/Works/rails7/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250115-3154-61uxu5 sitelibdir\=./.gem.20250115-3154-61uxu5 clean
